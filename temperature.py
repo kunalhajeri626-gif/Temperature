@@ -1,3 +1,5 @@
-celsius = int(input("Enter a number:"))
-fahrenheit = 5/9(35-celsius)
-print(" The temperature in fahrenheit:",fahrenheit)
+celsius = int(input("Enter a number : "))
+
+fahrenheit = (9/5) * celsius + 32
+
+print("The temperature in Fahrenheit:", fahrenheit)
