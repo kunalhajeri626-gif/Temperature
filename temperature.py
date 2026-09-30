@@ -6,3 +6,4 @@ print("The temperature in Fahrenheit:", fahrenheit)
 
 kelvin = celsius + 273.15
 print("The temperature in Kelvin:", kelvin)
+print("The temperature in Celsius:", celsius)
